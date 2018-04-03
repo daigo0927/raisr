@@ -1,6 +1,8 @@
 # RAISR
 
-A Python implementation of [RAISR](http://ieeexplore.ieee.org/document/7744595/). Supporting color images.
+A Python implementation of [RAISR](http://ieeexplore.ieee.org/document/7744595/).
+
+Forked from [movehand/raisr](https://github.com/movehand/raisr), now I try to additionally implement two types of blending scheme.
 
 ## How To Use
 
